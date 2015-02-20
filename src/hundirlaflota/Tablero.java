@@ -47,6 +47,7 @@ public class Tablero {
     public static void main(String[] args) {
 
         mostrar();
+        System.out.println("");
     }
 
     public static void mostrar() {
