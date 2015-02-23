@@ -94,6 +94,6 @@ public class Tablero {
 
         }
         System.out.println("");
-
+        System.out.println("Tengo que terminar este ejercicio");
     }
 }
